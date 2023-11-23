@@ -1,16 +1,15 @@
-# demo_app
+# Frontend-Task
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a small demo task app in which user is able to see 6 squat images on screen.
+User can select atleast 3 images on screen and then after it will through a validation for selecting more than 3 images.
+App will save the state of the selected images on screen. So if user leave the app by selecting images and open it's again then it will show selected images.
 
-A few resources to get you started if this is your first Flutter project:
+There are also two buttons placed in screen in which on click of one button,it's showing how the loading indicator is going to display on screen and second button is for snatchbar text is display on screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For app demo, there is one gif file created and place with code.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This task took around 13-14hrs to complete it.
